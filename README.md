@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zenoelio
+- 👀 I’m interested in Python, JavaScript, HTML and CSS
+- 🌱 I’m currently learning Python, JavaScript, HTML and CSS
+- 💞️ I’m looking to collaborate on Python, JavaScript, HTML and CSS
+- 📫 How to reach me zenoelioleone@gmail.com
